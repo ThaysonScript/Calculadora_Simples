@@ -1,10 +1,10 @@
-from funções import Operador
-from Cabeça import Cabeçalho
+from funcoes import Operador
+from Cabeca import Cabecalho
 
-Cabeçalho()
+Cabecalho()
 Mn = 'Menu'
 print(f'{Mn:>17}')
-Cabeçalho()
+Cabecalho()
 
 while True:
 	opr = str(input('Digite o Operador: '))
