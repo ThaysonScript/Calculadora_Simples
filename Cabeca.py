@@ -1,2 +1,2 @@
-def Cabeçalho():
+def Cabecalho():
 	return print('-' * 30)
